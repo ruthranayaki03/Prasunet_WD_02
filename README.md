@@ -1,6 +1,5 @@
 # Stopwatch ⏱️
-
-A sleek and intuitive web-based stopwatch created with HTML, CSS, and JavaScript. Perfect for timing your workouts, cooking, or any activity! 🔥
+This Stopwatch Web Application is a simple and user-friendly tool built using HTML, CSS, and JavaScript. It allows users to measure elapsed time with precision and ease.
 
 ## Features
 
@@ -10,7 +9,7 @@ A sleek and intuitive web-based stopwatch created with HTML, CSS, and JavaScript
 
 ## Live Demo
 
-You can check here: [StopWatch](https://dharshini1401.github.io/StopWatch/)
+You can check here: [StopWatch](https://ruthranayaki03.github.io/Stop-watch-app/)
 
 
 ## Technologies Used
@@ -33,6 +32,4 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/StopWatch.git
-
-![image](https://github.com/user-attachments/assets/90d40d1b-2814-4f03-b20b-9e451ff21c74)
 
